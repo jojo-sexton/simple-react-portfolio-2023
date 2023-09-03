@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/simple-react-portfolio/static/css/main.995f2c8d.css",
-    "main.js": "/simple-react-portfolio/static/js/main.b8587422.js",
-    "static/media/react.png": "/simple-react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/simple-react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/simple-react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/github.png": "/simple-react-portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/westpac.png": "/simple-react-portfolio/static/media/westpac.dd2aa2fa96dadc86cff0.png",
-    "static/media/html.png": "/simple-react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/simple-react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/portfolio.png": "/simple-react-portfolio/static/media/portfolio.dcef17c1773c686fea37.png",
-    "static/media/javascript.png": "/simple-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/simple-react-portfolio/index.html",
-    "main.995f2c8d.css.map": "/simple-react-portfolio/static/css/main.995f2c8d.css.map",
-    "main.b8587422.js.map": "/simple-react-portfolio/static/js/main.b8587422.js.map"
+    "main.css": "/jojosexton/static/css/main.995f2c8d.css",
+    "main.js": "/jojosexton/static/js/main.aeb26c40.js",
+    "static/media/react.png": "/jojosexton/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/jojosexton/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/jojosexton/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/jojosexton/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/westpac.png": "/jojosexton/static/media/westpac.dd2aa2fa96dadc86cff0.png",
+    "static/media/html.png": "/jojosexton/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/jojosexton/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/portfolio.png": "/jojosexton/static/media/portfolio.dcef17c1773c686fea37.png",
+    "static/media/javascript.png": "/jojosexton/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/jojosexton/index.html",
+    "main.995f2c8d.css.map": "/jojosexton/static/css/main.995f2c8d.css.map",
+    "main.aeb26c40.js.map": "/jojosexton/static/js/main.aeb26c40.js.map"
   },
   "entrypoints": [
     "static/css/main.995f2c8d.css",
-    "static/js/main.b8587422.js"
+    "static/js/main.aeb26c40.js"
   ]
 }
