@@ -7,7 +7,7 @@ export const data=[
         name: 'Responsive React portfolio with tailwind',
         image: portfolio,
         github:"https://github.com/jojo-sexton/simple-react-portfolio-2023",
-        live:"../projects/quiz/quiz.html",
+        live:"/",
     },
    
 

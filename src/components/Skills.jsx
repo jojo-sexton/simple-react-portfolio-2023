@@ -13,7 +13,7 @@ import TSB from '../assets/TSB.png'
 
 const Skills = () => {
   return (
-    <div name="skills" className="w-full h-screen bg-[#0a192f] text-gray-300 pt-[5rem]">
+    <div name="skills" className="w-full h-full bg-[#0a192f] text-gray-300 pt-[5rem]">
       {/* Container for Tech */}
       <div className="max-w-[1000px] mx-auto p-16 flex flex-col justify-center w-full h-full">
         <div>
