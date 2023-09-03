@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio2023/static/css/main.995f2c8d.css",
-    "main.js": "/portfolio2023/static/js/main.c53775c3.js",
-    "static/media/react.png": "/portfolio2023/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/portfolio2023/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/portfolio2023/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/github.png": "/portfolio2023/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/westpac.png": "/portfolio2023/static/media/westpac.dd2aa2fa96dadc86cff0.png",
-    "static/media/html.png": "/portfolio2023/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/portfolio2023/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/portfolio.png": "/portfolio2023/static/media/portfolio.dcef17c1773c686fea37.png",
-    "static/media/javascript.png": "/portfolio2023/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/portfolio2023/index.html",
-    "main.995f2c8d.css.map": "/portfolio2023/static/css/main.995f2c8d.css.map",
-    "main.c53775c3.js.map": "/portfolio2023/static/js/main.c53775c3.js.map"
+    "main.css": "/simple-react-portfolio-2023/static/css/main.995f2c8d.css",
+    "main.js": "/simple-react-portfolio-2023/static/js/main.87af06fa.js",
+    "static/media/react.png": "/simple-react-portfolio-2023/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/simple-react-portfolio-2023/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/simple-react-portfolio-2023/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/simple-react-portfolio-2023/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/westpac.png": "/simple-react-portfolio-2023/static/media/westpac.dd2aa2fa96dadc86cff0.png",
+    "static/media/html.png": "/simple-react-portfolio-2023/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/simple-react-portfolio-2023/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/portfolio.png": "/simple-react-portfolio-2023/static/media/portfolio.dcef17c1773c686fea37.png",
+    "static/media/javascript.png": "/simple-react-portfolio-2023/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/simple-react-portfolio-2023/index.html",
+    "main.995f2c8d.css.map": "/simple-react-portfolio-2023/static/css/main.995f2c8d.css.map",
+    "main.87af06fa.js.map": "/simple-react-portfolio-2023/static/js/main.87af06fa.js.map"
   },
   "entrypoints": [
     "static/css/main.995f2c8d.css",
-    "static/js/main.c53775c3.js"
+    "static/js/main.87af06fa.js"
   ]
 }
