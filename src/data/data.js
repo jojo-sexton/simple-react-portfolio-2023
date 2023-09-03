@@ -1,34 +1,14 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import portfolio from '../assets/projects/portfolio.png'
+
 
 export const data=[
     {
         id:1,
-        name:"Are you 100% Atlas Ninja?",
-        image:WorkIm,
-        github:"",
+        name: 'Responsive React portfolio with tailwind',
+        image: portfolio,
+        github:"https://github.com/jojo-sexton/simple-react-portfolio-2023",
         live:"../projects/quiz/quiz.html",
     },
-    {
-        id:2,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
-    {
-        id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
+   
 
   ]
