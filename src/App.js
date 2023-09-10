@@ -4,6 +4,7 @@ import About from './components/About'
 import Skills from './components/Skills'
 import Work from './components/Work'
 import Contact from './components/Contact'
+import Tictactoe from './components/Tictactoe'
 import {Route, Routes} from 'react-router-dom'
 
 
@@ -20,6 +21,7 @@ function App() {
       <Route path='/skills' element={<Skills/>}/>
       <Route path='/work' element={<Work/>}/>
       <Route path='/contact' element={<Contact/>}/>
+      <Route path='/tictactoe' element={<Tictactoe/>}/>
 
     </Routes>
     </>
