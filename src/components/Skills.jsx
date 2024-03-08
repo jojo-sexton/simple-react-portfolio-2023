@@ -12,6 +12,11 @@ import Mongo from '../assets/mongo.png'
 import HSBC from '../assets/hsbc.png'
 import Westpac from '../assets/westpac.png'
 import TSB from '../assets/TSB.png'
+import Photoshop from '../assets/photoshop.png'
+import illustrator from '../assets/illustrator.png'
+import procreate from '../assets/procreate.png'
+
+
 
 const Skills = () => {
   return (
@@ -93,6 +98,18 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Node} alt="Node icon" />
             <p className="my-4">NODE JS</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Photoshop} alt="Photoshop icon" />
+            <p className="my-4">PHOTOSHOP</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={illustrator} alt="Adobe icon" />
+            <p className="my-4">ADOBE ILLUSTRATOR</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={procreate} alt="Adobe icon" />
+            <p className="my-4">PROCREATE</p>
           </div>
        
         </div>
