@@ -1,6 +1,6 @@
 import React from 'react'
 import { HiArrowNarrowRight } from 'react-icons/hi'
-import { TypeAnimation } from 'react-type-animation'
+// import { TypeAnimation } from 'react-type-animation'
 
 const Home = () => {
   return (
@@ -11,10 +11,11 @@ const Home = () => {
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
           Jojo Sexton
         </h1>
-        <h2 className="text-2xl sm:text-5xl font-bold text-[#8892b0]">
-          I'm a{' '}
-          <span className="text-2xl sm:text-5xl font-bold text-[#8892b0]">
-            <TypeAnimation
+        <h2 className="text-xl sm:text-4xl font-bold text-[#8892b0]">
+          {/* I am {' '}
+          <span className="text-2xl sm:text-5xl font-bold text-[#8892b0]"> */}
+          Mortgage Broker Manager/ Full Stack Developer
+            {/* <TypeAnimation
               sequence={[
                 'Broker Manager', // Types 'One'
                 1000, // Waits 1s
@@ -25,11 +26,11 @@ const Home = () => {
               cursor={true}
               repeat={Infinity}
               style={{ display: 'inline-block' }}
-            />
-          </span>
+            /> */}
+          {/* </span> */}
         </h2>
-        <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I’m a senior lender who loves to code in my free time.
+        <p className="text-[#8892b0] py-4 max-w-[700px] text-justify">
+        I am a professional lender with over 10 years of experience in finance and banking. I love my job, but I am also passionate about computer science and enjoy coding in my free time. <br></br>I am now looking for an opportunity to shift my career to tech, where I can utilize my financial expertise to develop complex financial applications with AI, built-in security, and testing.  I want to contribute towards addressing critical challenges in the financial sector, including cybersecurity threats, digital transformation, regulatory compliance, and data management and analytics.
         </p>
 
         <div className="flex space-x-4">

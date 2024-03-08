@@ -10,13 +10,12 @@ const Work = () => {
     //setProject(data);
   
   return (
-    <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f] pt-[5rem]'>
+    <div name='work' className='w-full  text-gray-300 bg-[#0a192f] pt-[5rem]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-screen'>
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
             Work
           </p>
-          <p className='py-6'>Check out my code of building this website portfolio using React and Tailwind</p>
         </div>
 
 {/* container for projects */}
@@ -29,6 +28,7 @@ const Work = () => {
     style={{ backgroundImage: `url(${item.image})` }}
     className="shadow-lg shadow-[#c784cf] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
+             
   >
     {/* Hover effect for images */}
     <div className="opacity-0 group-hover:opacity-100 ">
@@ -59,8 +59,8 @@ const Work = () => {
   </div>
 ))}
 
-
 </div>
+
       </div>
     </div>
   );
